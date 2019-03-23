@@ -1,0 +1,9 @@
+C:\Users\david\source\repos\CadastroCliente\ClientAuth.Domain\bin\Debug\netstandard2.0\ClientAuth.Domain.deps.json
+C:\Users\david\source\repos\CadastroCliente\ClientAuth.Domain\bin\Debug\netstandard2.0\ClientAuth.Domain.dll
+C:\Users\david\source\repos\CadastroCliente\ClientAuth.Domain\bin\Debug\netstandard2.0\ClientAuth.Domain.pdb
+C:\Users\david\source\repos\CadastroCliente\ClientAuth.Domain\obj\Debug\netstandard2.0\ClientAuth.Domain.csprojAssemblyReference.cache
+C:\Users\david\source\repos\CadastroCliente\ClientAuth.Domain\obj\Debug\netstandard2.0\ClientAuth.Domain.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\CadastroCliente\ClientAuth.Domain\obj\Debug\netstandard2.0\ClientAuth.Domain.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\CadastroCliente\ClientAuth.Domain\obj\Debug\netstandard2.0\ClientAuth.Domain.AssemblyInfo.cs
+C:\Users\david\source\repos\CadastroCliente\ClientAuth.Domain\obj\Debug\netstandard2.0\ClientAuth.Domain.dll
+C:\Users\david\source\repos\CadastroCliente\ClientAuth.Domain\obj\Debug\netstandard2.0\ClientAuth.Domain.pdb

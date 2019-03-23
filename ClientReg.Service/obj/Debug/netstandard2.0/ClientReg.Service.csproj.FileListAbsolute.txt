@@ -1,0 +1,14 @@
+C:\Users\david\source\repos\CadastroCliente\ClientReg.Service\bin\Debug\netstandard2.0\ClientReg.Service.deps.json
+C:\Users\david\source\repos\CadastroCliente\ClientReg.Service\bin\Debug\netstandard2.0\ClientReg.Service.dll
+C:\Users\david\source\repos\CadastroCliente\ClientReg.Service\bin\Debug\netstandard2.0\ClientReg.Service.pdb
+C:\Users\david\source\repos\CadastroCliente\ClientReg.Service\bin\Debug\netstandard2.0\ClientAuth.Domain.dll
+C:\Users\david\source\repos\CadastroCliente\ClientReg.Service\bin\Debug\netstandard2.0\ClientReg.Infra.dll
+C:\Users\david\source\repos\CadastroCliente\ClientReg.Service\bin\Debug\netstandard2.0\ClientAuth.Domain.pdb
+C:\Users\david\source\repos\CadastroCliente\ClientReg.Service\bin\Debug\netstandard2.0\ClientReg.Infra.pdb
+C:\Users\david\source\repos\CadastroCliente\ClientReg.Service\obj\Debug\netstandard2.0\ClientReg.Service.csprojAssemblyReference.cache
+C:\Users\david\source\repos\CadastroCliente\ClientReg.Service\obj\Debug\netstandard2.0\ClientReg.Service.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\CadastroCliente\ClientReg.Service\obj\Debug\netstandard2.0\ClientReg.Service.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\CadastroCliente\ClientReg.Service\obj\Debug\netstandard2.0\ClientReg.Service.AssemblyInfo.cs
+C:\Users\david\source\repos\CadastroCliente\ClientReg.Service\obj\Debug\netstandard2.0\ClientReg.Service.csproj.CopyComplete
+C:\Users\david\source\repos\CadastroCliente\ClientReg.Service\obj\Debug\netstandard2.0\ClientReg.Service.dll
+C:\Users\david\source\repos\CadastroCliente\ClientReg.Service\obj\Debug\netstandard2.0\ClientReg.Service.pdb

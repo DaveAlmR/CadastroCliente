@@ -1,0 +1,12 @@
+C:\Users\david\source\repos\CadastroCliente\ClientReg.Infra\bin\Debug\netstandard2.0\ClientReg.Infra.deps.json
+C:\Users\david\source\repos\CadastroCliente\ClientReg.Infra\bin\Debug\netstandard2.0\ClientReg.Infra.dll
+C:\Users\david\source\repos\CadastroCliente\ClientReg.Infra\bin\Debug\netstandard2.0\ClientReg.Infra.pdb
+C:\Users\david\source\repos\CadastroCliente\ClientReg.Infra\bin\Debug\netstandard2.0\ClientAuth.Domain.dll
+C:\Users\david\source\repos\CadastroCliente\ClientReg.Infra\bin\Debug\netstandard2.0\ClientAuth.Domain.pdb
+C:\Users\david\source\repos\CadastroCliente\ClientReg.Infra\obj\Debug\netstandard2.0\ClientReg.Infra.csprojAssemblyReference.cache
+C:\Users\david\source\repos\CadastroCliente\ClientReg.Infra\obj\Debug\netstandard2.0\ClientReg.Infra.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\CadastroCliente\ClientReg.Infra\obj\Debug\netstandard2.0\ClientReg.Infra.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\CadastroCliente\ClientReg.Infra\obj\Debug\netstandard2.0\ClientReg.Infra.AssemblyInfo.cs
+C:\Users\david\source\repos\CadastroCliente\ClientReg.Infra\obj\Debug\netstandard2.0\ClientReg.Infra.csproj.CopyComplete
+C:\Users\david\source\repos\CadastroCliente\ClientReg.Infra\obj\Debug\netstandard2.0\ClientReg.Infra.dll
+C:\Users\david\source\repos\CadastroCliente\ClientReg.Infra\obj\Debug\netstandard2.0\ClientReg.Infra.pdb
